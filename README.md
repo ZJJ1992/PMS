@@ -1,8 +1,22 @@
 # PMS（Pet Management System）
 The Pet Management System (PMS) is a pet information query, statistic, and pet transaction system for pet store holders.
 
+## STEPS 
+1. git download:
+```
+git clone https://github.com/ZJJ1992/PMS.git
+```
+2. create Mysql database:
+```
+python DBsql.py
+```
+3. run:
+```
+python run.py
+```
+
 ## Prerequisite：
-1. > python3.5
+1. python3.5 above
 2. PyQt5
 3. Mysql
 4. pymysql
